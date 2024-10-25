@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../oop_php"
+		},
+		{
+			"path": "../../../Redeemer's-Univerity-changes"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Arise-Thrift"
+		},
+		{
+			"path": "../../../1st_frontend_web"
+		},
+		{
+			"path": "../../../bookshelf"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/university-anonymous"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1st_frontend_web"
+	}
+}

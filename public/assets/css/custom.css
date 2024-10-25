@@ -1,0 +1,16 @@
+.custom-nav{
+    font-size: small;
+}
+/* <span class="custom-nav"> */
+.Create-h1{
+    font-size: large;
+    border-style: solid;
+    padding: 10px;
+}
+#contact{
+    font-size: small;
+}
+.login-color{
+    color:black;
+    /* font-size:45px; */
+}
